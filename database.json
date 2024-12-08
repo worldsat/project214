@@ -1,0 +1,54 @@
+{
+
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382432/project214/jwfz5qri9sa7huxhs8x6.png",
+      "title": "Pizza"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382432/project214/yj17x313itrygkwelywc.png",
+      "title": "Burger"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382433/project214/iaiouxyiva62ialebhpi.png",
+      "title": "Hotdog"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382432/project214/yjkrfrowm21cl2p3wmnu.png",
+      "title": "Drink"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382432/project214/txd4heirdj0gf7g62w6v.png",
+      "title": "Donut"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "2",
+      "description": "Slices of pepperoni, mozzarella cheese, fresh oregano, ground black pepper, pizza sauce",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382832/project214/cxzcfazgvit8prirppp2.png",
+      "price": 9.76,
+      
+      "title": "Pepperoni pizza"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382821/project214/luisttyilhgyyafdyugj.png",
+      "price": 25,
+      "title": "Cheese Burger"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1733382833/project214/bj4y17plqy9d03wppa0c.png",
+      "price": 32,
+      "title": "Vegetable pizza"
+    }
+  ]
+}
